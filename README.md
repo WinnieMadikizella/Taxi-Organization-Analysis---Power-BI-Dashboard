@@ -36,9 +36,17 @@ A comprehensive Power BI dashboard analyzing taxi service operations over three 
 - Cohesive Color Scheme: Enhances visual storytelling for better decision-making.
 
 ## Screenshots
-![Dashboard Overview](images/dashboard_screenshot.png)
-![Revenue Analysis](images/insights_visualization.png)
-![KPI Tracking](images/kpi_metrics.png)
+## Screenshots
+### Dashboard Overview
+![Dashboard Homepage](images/[homepage.JPG](https://github.com/WinnieMadikizella/Taxi-Organization-Analysis---Power-BI-Dashboard/blob/main/homepage.JPG))
+
+### Revenue Analysis
+![Revenue Analysis](images/page 2.JPG)
+
+### KPI Tracking
+![KPI Tracking](images/page 1.JPG)
+
+
 
 ## Tools Used
 - Microsoft Power BI
